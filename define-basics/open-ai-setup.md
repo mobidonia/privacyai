@@ -21,3 +21,7 @@ The cron job that need to be executed is
 
 
 **https://youdomain.com/gen/cron/ai**
+
+Here is how you can create cron job in cPanel
+
+{% embed url="https://chat.openai.com/share/48f0c5a5-7ba5-4e18-b210-86c550b34ac3" %}
