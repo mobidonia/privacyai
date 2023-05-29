@@ -12,3 +12,12 @@ To get your API KEY
 
 {% embed url="https://platform.openai.com/account/api-keys" %}
 
+### Cron JOB setup
+
+When using Open AI, you will neet to setup cron JOBS that will run on some interval. Suggested is 1-5 min.&#x20;
+
+The cron job that need to be executed is
+
+
+
+**https://youdomain.com/gen/cron/ai**
