@@ -18,7 +18,9 @@ When using Open AI, you will neet to setup cron JOBS that will run on some inter
 
 The cron job that need to be executed is
 
-
+```
+curl -sSf https://youdomain.com/gen/cron/ai
+```
 
 **https://youdomain.com/gen/cron/ai**
 
